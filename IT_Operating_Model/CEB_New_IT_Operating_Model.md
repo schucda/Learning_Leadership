@@ -28,6 +28,12 @@ This article is about the new IT Operating model for digital
   * *State Farm opted to take a big swing and move everything to the product model, other organizations suggested taking a few product lines at a time to minimize risk.*
   * To be successful, visibility across product lines should be a **must**. Allows for sharing of innovation, identification of duplicity and managing interdependencies.
   
+* **Adaptive Business Engagement**
+  * IT and Business must work closer together. Business doesn't want to have to develop requirements and pass them to IT to respond/execute on. They want a colaborative experience with their IT partners to get strategic advice on digital opportunites and risks. 
+  * IT Organizations need to be fleixble and adaptive to the business engagement, five activites that IT needs to be prepared to do **Evangelizing and educating, consulting, brokering, coaching and delivering - based on business partners' digital ambition and ability.** All teams need to have some form of business engagement, however one team cant execute on all 5 activites. This will be spread across different teams and can be a challenge due to talkent gaps.
+  * The article mentions that 21% of business partners feel IT Provides effective advice. 
+    - [ ] Can we measure this?
+  
   
 ## Future Action Items:
 - [ ] Allocate IT investment by capability-based product lines. | *Brocade’s Strategic Pillar Investment Targets (CEB CIO)*
