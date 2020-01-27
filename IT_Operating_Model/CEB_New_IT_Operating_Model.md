@@ -22,4 +22,19 @@ This article is about the new IT Operating model for digital
   9. **Adaptive Skills and Mindset:** Staff become technically versatile, collaborative, and open to innovation.
   
 
-    
+* **Product over Projects:**
+  * Allocating budget to the product and not project allows product manager and teams to shift focus much faster when business needs change instead of having to go start another project and obtain funding.
+  * Product Manager must be focused on continuously improving the product and working closely with customers and understanding business objectives
+  * *State Farm opted to take a big swing and move everything to the product model, other organizations suggested taking a few product lines at a time to minimize risk.*
+  * To be successful, visibility across product lines should be a **must**. Allows for sharing of innovation, identification of duplicity and managing interdependencies.
+  
+  
+## Future Action Items:
+- [ ] Allocate IT investment by capability-based product lines. | *Brocade’s Strategic Pillar Investment Targets (CEB CIO)*
+- [ ] Align delivery resources to product lines. | *Autodesk’s Changing the Applications Delivery and Support Model (CEB Applications)*
+- [ ] Design an empowered product-line manager role. | *Service Manager Responsibilities and Skills (CEB CIO)*
+- [ ] Identify and visualize interdependencies. | *Nationwide’s Agile Metrics for Coordinated Delivery (CEB Applications)*
+- [ ] Reallocate funding across product lines. | *State Farm’s Trigger-Based Program Budget Scraping (CEB PMO)*
+- [ ] Put product lines at the heart of your planning process. | *CEB IT Roadmap Builder™ (CEB)*
+
+
