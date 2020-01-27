@@ -46,6 +46,14 @@ This article is about the new IT Operating model for digital
   * Didn't capture notes from this section as there wasn't anything that jumped out as new. *Did add the action items below though*
   
 * **Customer-Centric Design**
+  * All about understanding the customers experience, identify the issues that create friction and use that information to make the design a better experience.
+  * IT doesnt need to be involved in all Customer Experience. Identify the best areas for IT Involvement.
+  * Look at customer expereince across business silos...
+  * IT Needs access to real customers to change perspective.
+  * State Farm used as the Case Study... Need to get access to this report!
+  
+  
+  
   
   
   
