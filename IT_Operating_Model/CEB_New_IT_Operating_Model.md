@@ -1,10 +1,10 @@
-###What?
+### What?
 This article is about the new IT Operating model for digital
 
 ### Tasks
 - [ ] Read Ceb Article
 
-###Notes:
+### Notes:
 
 - Leaders concerned that their IT Departments are not able to execute on changes that could impact business outcomes fast enough
 
