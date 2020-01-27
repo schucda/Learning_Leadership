@@ -31,11 +31,13 @@ This article is about the new IT Operating model for digital
 * **Adaptive Business Engagement**
   * IT and Business must work closer together. Business doesn't want to have to develop requirements and pass them to IT to respond/execute on. They want a colaborative experience with their IT partners to get strategic advice on digital opportunites and risks. 
   * IT Organizations need to be fleixble and adaptive to the business engagement, five activites that IT needs to be prepared to do **Evangelizing and educating, consulting, brokering, coaching and delivering - based on business partners' digital ambition and ability.** All teams need to have some form of business engagement, however one team cant execute on all 5 activites. This will be spread across different teams and can be a challenge due to talkent gaps.
+    * **Evangelizing** - Keep abreast of emerging digital trends, and educate business partners on opportunities to create value from technology.
   * The article mentions that 21% of business partners feel IT Provides effective advice. 
     - [ ] Can we measure this?
   * Understand your business partners technical aptitude to determine the engagement activites needed from IT.
   * Have the ability to build on-demand teams that can provide the right mix of knowledge and engagement based on business stakeholder requirements.
   * Build technical depth and engagement skills in parallel. A more flexible, team-oriented model for business engagement can’t work unless traditional engagement roles (e.g., business analysts) develop stronger technical knowledge and delivery teams build relationship management and influencing skills.
+  
   
   
 ## Future Action Items:
