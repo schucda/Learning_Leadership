@@ -32,11 +32,20 @@ This article is about the new IT Operating model for digital
   * IT and Business must work closer together. Business doesn't want to have to develop requirements and pass them to IT to respond/execute on. They want a colaborative experience with their IT partners to get strategic advice on digital opportunites and risks. 
   * IT Organizations need to be fleixble and adaptive to the business engagement, five activites that IT needs to be prepared to do **Evangelizing and educating, consulting, brokering, coaching and delivering - based on business partners' digital ambition and ability.** All teams need to have some form of business engagement, however one team cant execute on all 5 activites. This will be spread across different teams and can be a challenge due to talkent gaps.
     * **Evangelizing** - Keep abreast of emerging digital trends, and educate business partners on opportunities to create value from technology.
+    * **Consulting** - Offer advice and frameworks to enable succesfful business leadership of technology investments.
+    * **Brokering** - Provide the internal and external connections needed for business leadership of technology investments.
+    * **Coaching** - Develop employee skills to help them make full use of the enterprise's technology and information.
+    * **Delivering** - Own the process of delivering technology functionality, or provide integration capabilities for besiness-led technology investments.
   * The article mentions that 21% of business partners feel IT Provides effective advice. 
     - [ ] Can we measure this?
   * Understand your business partners technical aptitude to determine the engagement activites needed from IT.
   * Have the ability to build on-demand teams that can provide the right mix of knowledge and engagement based on business stakeholder requirements.
   * Build technical depth and engagement skills in parallel. A more flexible, team-oriented model for business engagement can’t work unless traditional engagement roles (e.g., business analysts) develop stronger technical knowledge and delivery teams build relationship management and influencing skills.
+
+* **Agile, DevOps, Continuous Delivery**
+  * Didn't capture notes from this section as there wasn't anything that jumped out as new. *Did add the action items below though*
+  
+* **Customer-Centric Design**
   
   
   
@@ -47,5 +56,18 @@ This article is about the new IT Operating model for digital
 - [ ] Identify and visualize interdependencies. | *Nationwide’s Agile Metrics for Coordinated Delivery (CEB Applications)*
 - [ ] Reallocate funding across product lines. | *State Farm’s Trigger-Based Program Budget Scraping (CEB PMO)*
 - [ ] Put product lines at the heart of your planning process. | *CEB IT Roadmap Builder™ (CEB)*
+
+- [ ] Structure a business engagement model around business capabilities, access to technical expertise, and idea sharing. | *Intel’s Adaptive Digital Engagement Model (CEB CIO)*
+- [ ] Understand changes in enterprise demand for technology skills. | *The Talent Implications of Digitization (CEB CIO)*
+- [ ] Develop accelerated self-service tracks for business partner demands. | *DIRECTV’s Adaptive Delivery Paths (CEB Applications)*
+- [ ] Assess the preparedness of your business analysts and project managers for an adaptive business engagement model. | *Business Analyst Effectiveness Diagnostic (CEB Applications) and Project Manager Effectiveness Diagnostic (CEB PMO)*
+
+- [ ] Structure continuous delivery in a product-aligned organization. | *Autodesk’s Changing the Applications Delivery and Support Model (CEB Applications)*
+- [ ] Plan the rollout of a DevOps model. | *DevOp Implementation Roadmap (CEB Applications)*
+- [ ] Benchmark the effectiveness of your Agile teams. | *Agile Improvement Diagnostic (CEB Applications)*
+- [ ] Develop a change-management program to support continuous delivery. | *Molina Healthcare’s Managing Change in Engineering Practices (CEB Infrastructure)*
+
+
+
 
 
