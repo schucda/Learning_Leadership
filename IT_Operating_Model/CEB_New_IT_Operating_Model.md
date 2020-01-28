@@ -55,7 +55,10 @@ This article is about the new IT Operating model for digital
 * **Applications Building Blocks**
   * Lots of capabilites are accelerating ITs ability to integrate services and make them smaller and decoupled. APIs, microservices, containers and cloud are just a few.
   * Moving aware from territorial data ownership and having a strong enterprise data strategy that allows for sharing is a must to acheive these smaller building blocks.
-  
+  * Corporate IT must find the means to both speed and scale this boundary crossing without creating unnecessary complexity, effort, or risk.
+  * API's and Selfserivce capabilites are not just for IT. Find ways to share this information with business and get the capabilites as close to where value is added as possible.
+  * Intuit focuses on delivering APIs as its primary end product. This allows them to move away from end-to-end delivery of applications.
+
   
   
   
@@ -83,7 +86,9 @@ This article is about the new IT Operating model for digital
 - [ ] Use customer personas to change how IT staff think about customer experience. | *Consider the Customer Experience (CEB Architecture)*
 - [ ] Learn about the importance of reducing customer effort. | *About the Effortless Experience (CEB)*
 
-
+- [ ] Create an effective API-first strategy. | *Intuit’s Scaling Enterprise Development Through API Product Management (CEB Applications)*
+- [ ] Build architectures that optimize data provisioning and connect employeedeveloped applications to corporate data assets. | *Flexible Interfaces, Foundational Services (CEB Applications and CEB Architecture)
+- [ ] Define data-fetching services based on customer needs. | *Ameriprise Financial’s Information-Centered Portfolio Modernization (CEB Applications)*
 
 
 
