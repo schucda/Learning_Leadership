@@ -59,12 +59,18 @@ This article is about the new IT Operating model for digital
   * API's and Selfserivce capabilites are not just for IT. Find ways to share this information with business and get the capabilites as close to where value is added as possible.
   * Intuit focuses on delivering APIs as its primary end product. This allows them to move away from end-to-end delivery of applications.
 
+* **Cloud-Based Scalable Infrastructure**
+  * Cloud enables new opportunities for IT. The ability to fully automate and support infrastrcutre as code and mininize capital expedintures through operational is huge. Pay for what you need, when you need it for as long as you need it. Historically, traditional data centers require a lot of expenditure before the infrasatructure is even used, long lead times to acquire the infrastrcture and lots of inneficiencies. When the project shutsdown or fails, you still have this huge expense. Failure is expensive in on-prem solutions.
+  
   
   
   
   
   
 ## Future Action Items:
+
+These are action items from the article. I need to do some research to determine which ones I want to follow-up on and then priorities them. 
+
 - [ ] Allocate IT investment by capability-based product lines. | *Brocade’s Strategic Pillar Investment Targets (CEB CIO)*
 - [ ] Align delivery resources to product lines. | *Autodesk’s Changing the Applications Delivery and Support Model (CEB Applications)*
 - [ ] Design an empowered product-line manager role. | *Service Manager Responsibilities and Skills (CEB CIO)*
