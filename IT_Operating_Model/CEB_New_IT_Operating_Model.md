@@ -75,6 +75,21 @@ This article is about the new IT Operating model for digital
 - [ ] Benchmark the effectiveness of your Agile teams. | *Agile Improvement Diagnostic (CEB Applications)*
 - [ ] Develop a change-management program to support continuous delivery. | *Molina Healthcare’s Managing Change in Engineering Practices (CEB Infrastructure)*
 
+Map customer journey maps to business
+capabilities. | State Farm’s Applying a
+Customer-Experience Lens to IT Planning
+(CEB Architecture)
+■■ Use customer personas to change how IT
+staff think about customer experience. |
+Consider the Customer Experience
+(CEB Architecture)
+■■ Learn about the importance of reducing
+customer effort. | About the Effortless
+Experience (CEB)
+■■ Plan the rollout of a DevOps model. |
+DevOps Implementation Roadmap
+(CEB Applications)
+
 
 
 
