@@ -64,6 +64,9 @@ This article is about the new IT Operating model for digital
   * Don't develop your cloud strategy in a silo. Work with your business partners to develop the strategy and see where cloud fits in business initiatives.
   * New projects/products should be the initial focus of the cloud. Migrating existing products will not provide the ROI as quickly as you would like.
   * DevOps is a must for cloud... Moving to the cloud without devops will not allow for the rapid deployment, testing and iteration that the cloud provides.
+  * For the first time, infrastructure teams need to be closer to the business. CLoud infrastructure teams need to educate the business on the opportunites that the cloud offers.
+  * Create and leverage Cloud Champions - *Case in Point: ThermoFisher Scientific Creates Cloud Champions ThermoFisher Scientific appoints commercial product managers in each business unit to act as “cloud champions.” Cloud champions are responsible for teaching business leaders how they can use cloud capabilities in their products. They also connect business leaders with technical expertise in IT cloud-development teams to embed cloud solutions into commercial-product processes and offerings*
+  *
   
   
   
@@ -99,6 +102,12 @@ These are action items from the article. I need to do some research to determine
 - [ ] Create an effective API-first strategy. | *Intuit’s Scaling Enterprise Development Through API Product Management (CEB Applications)*
 - [ ] Build architectures that optimize data provisioning and connect employeedeveloped applications to corporate data assets. | *Flexible Interfaces, Foundational Services (CEB Applications and CEB Architecture)
 - [ ] Define data-fetching services based on customer needs. | *Ameriprise Financial’s Information-Centered Portfolio Modernization (CEB Applications)*
+
+- [ ] Develop the fundamentals needed for an effective cloud strategy. | *Cloud Strategy Roadmap and Checklist(CEB Infrastructure)*
+- [ ]Analyze the cost impact of cloud on your application hosting and data center costs. | *Cloud Cost Modeling Tools Suite (CEB Infrastructure)*
+- [ ] Benchmark your investments in cloud technologies. | *Emerging Technology Roadmap (CEB Infrastructure)*
+
+
 
 
 
