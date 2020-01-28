@@ -103,8 +103,16 @@ This article is about the new IT Operating model for digital
     22. Provide Solution Designs (Solutions Architecture)
     23. Manage Reference Architecture
     24. Manage Integration (SOA, API, etc.)
+
+* **Data Strategy over ownership**
+  * Getover who owns the data, come up with a solution for how to share it across the organization. 
   
-  
+* **Adaptive skills and Mindsets**
+  * Organizations that adopt the IT operating model for digital require IT employees who exhibit three attributes:
+    * Competency in areas such as influencing, teamwork, communication, and learning agility, allowing employees to switch rapidly between tasks, work closely with business partners, and contribute fully to business outcomes
+    * The technical versatility to quickly evaluate and exploit new technologies and avoid becoming locked into legacy skills
+    * A risk-tolerant, collaborative, and open mind-set
+  * 
   
   
 ## Future Action Items:
