@@ -51,6 +51,10 @@ This article is about the new IT Operating model for digital
   * Look at customer expereince across business silos...
   * IT Needs access to real customers to change perspective.
   * State Farm used as the Case Study... Need to get access to this report!
+
+* **Applications Building Blocks**
+  * Lots of capabilites are accelerating ITs ability to integrate services and make them smaller and decoupled. APIs, microservices, containers and cloud are just a few.
+  * Moving aware from territorial data ownership and having a strong enterprise data strategy that allows for sharing is a must to acheive these smaller building blocks.
   
   
   
@@ -75,20 +79,11 @@ This article is about the new IT Operating model for digital
 - [ ] Benchmark the effectiveness of your Agile teams. | *Agile Improvement Diagnostic (CEB Applications)*
 - [ ] Develop a change-management program to support continuous delivery. | *Molina Healthcare’s Managing Change in Engineering Practices (CEB Infrastructure)*
 
-Map customer journey maps to business
-capabilities. | State Farm’s Applying a
-Customer-Experience Lens to IT Planning
-(CEB Architecture)
-■■ Use customer personas to change how IT
-staff think about customer experience. |
-Consider the Customer Experience
-(CEB Architecture)
-■■ Learn about the importance of reducing
-customer effort. | About the Effortless
-Experience (CEB)
-■■ Plan the rollout of a DevOps model. |
-DevOps Implementation Roadmap
-(CEB Applications)
+- [ ] Map customer journey maps to business capabilities. | *State Farm’s Applying a Customer-Experience Lens to IT Planning (CEB Architecture)*
+- [ ] Use customer personas to change how IT staff think about customer experience. | *Consider the Customer Experience (CEB Architecture)*
+- [ ] Learn about the importance of reducing customer effort. | *About the Effortless Experience (CEB)*
+
+
 
 
 
