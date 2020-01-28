@@ -66,10 +66,43 @@ This article is about the new IT Operating model for digital
   * DevOps is a must for cloud... Moving to the cloud without devops will not allow for the rapid deployment, testing and iteration that the cloud provides.
   * For the first time, infrastructure teams need to be closer to the business. CLoud infrastructure teams need to educate the business on the opportunites that the cloud offers.
   * Create and leverage Cloud Champions - *Case in Point: ThermoFisher Scientific Creates Cloud Champions ThermoFisher Scientific appoints commercial product managers in each business unit to act as “cloud champions.” Cloud champions are responsible for teaching business leaders how they can use cloud capabilities in their products. They also connect business leaders with technical expertise in IT cloud-development teams to embed cloud solutions into commercial-product processes and offerings*
-  *
   
+* **Strategy Over Governance, Management Over Operations**
+  * In the past Architects provided a lot of governance. Today Architects are needed for horizontal capabilites that span multiple products and are needed in engagements with the business. 
+  * In the past, IT leaders seeking to align IT strategy to business strategy said, “There are no IT projects, only business projects.” this has changed to “All business projects are technology projects.”
+  * Business leaders therefore increasingly seek help from experts in IT, varying their contact based on context. For example:
+    * For improvements to existing product capabilities, product managers are best positioned to help;
+    * For consulting that has a cross-product scope, EA has the relevant expertise; and
+    * If the business leader is concerned about risk, privacy, or compliance, they would likely involve Information Security.
   
-  
+  * **Business Strategy**
+    1. Manage Business Architecture
+    2. Demonstrate Digital Opportunities to Business Leaders
+    3. Facilitate Digital Strategy Decisions
+    4. Bring the Customer-Experience Lens to IT
+    5. Provide Digital Business Model Consulting
+    6. Support Business Transformation
+  * **IT Strategy**
+    7. Design IT Strategic Plan
+    8. Assess Vendors
+    9. Introduce New Technologies
+    10. Manage Information Architecture
+    11. Accelerate Agile Adoption
+    12. Design IT Workforce Plan
+    13. Conduct IT Talent Assessments
+  * **Planning and Roadmapping**
+    14. Assess Current-State IT Environment
+    15. Develop Future-State IT Architecture
+    16. Set Technology Standards
+    17. Develop and Maintain Roadmaps
+    18. Support IT Portfolio Modernization
+  * **Governance**
+    19. Promote Standards Adherence
+    20. Support Project Delivery
+    21. Review Solution Designs
+    22. Provide Solution Designs (Solutions Architecture)
+    23. Manage Reference Architecture
+    24. Manage Integration (SOA, API, etc.)
   
   
   
@@ -104,7 +137,7 @@ These are action items from the article. I need to do some research to determine
 - [ ] Define data-fetching services based on customer needs. | *Ameriprise Financial’s Information-Centered Portfolio Modernization (CEB Applications)*
 
 - [ ] Develop the fundamentals needed for an effective cloud strategy. | *Cloud Strategy Roadmap and Checklist(CEB Infrastructure)*
-- [ ]Analyze the cost impact of cloud on your application hosting and data center costs. | *Cloud Cost Modeling Tools Suite (CEB Infrastructure)*
+- [ ] Analyze the cost impact of cloud on your application hosting and data center costs. | *Cloud Cost Modeling Tools Suite (CEB Infrastructure)*
 - [ ] Benchmark your investments in cloud technologies. | *Emerging Technology Roadmap (CEB Infrastructure)*
 
 
