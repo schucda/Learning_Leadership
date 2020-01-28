@@ -61,6 +61,10 @@ This article is about the new IT Operating model for digital
 
 * **Cloud-Based Scalable Infrastructure**
   * Cloud enables new opportunities for IT. The ability to fully automate and support infrastrcutre as code and mininize capital expedintures through operational is huge. Pay for what you need, when you need it for as long as you need it. Historically, traditional data centers require a lot of expenditure before the infrasatructure is even used, long lead times to acquire the infrastrcture and lots of inneficiencies. When the project shutsdown or fails, you still have this huge expense. Failure is expensive in on-prem solutions.
+  * Don't develop your cloud strategy in a silo. Work with your business partners to develop the strategy and see where cloud fits in business initiatives.
+  * New projects/products should be the initial focus of the cloud. Migrating existing products will not provide the ROI as quickly as you would like.
+  * DevOps is a must for cloud... Moving to the cloud without devops will not allow for the rapid deployment, testing and iteration that the cloud provides.
+  
   
   
   
