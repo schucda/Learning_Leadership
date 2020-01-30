@@ -67,5 +67,42 @@ Increase SRE Acumen
  * You will find that a lot of teams are already measuring the right things from the Google Golden Four, but they are not discussed in a consistent way, arent related to each other and have inssuficent data.
 
  * Home Depot's first set of SLOs:
+  * Availability and latency for API calls
+  * Infrastructure utilization - no SLO for this, measured for capacity planning only
+  * Traffic volume - measure things like connections per second
+  * Errors
+   * Errors were somewhat complicated to account for. Since we were primarily dealing with web services, we had to standardize what constitutes an error and how to return errors. If a web service encountered an error, we naturally standardized on HTTP response codes:
+
+   * A service should not indicate an error in the body of a 2xx response; rather, it should throw either a 4xx or a 5xx.
+   * An error caused by a problem with the service (for example, out of memory) should throw a 5xx error.
+   * An error caused by the client (for example, sending a malformed request) should throw a 4xx error.
+   * After much deliberation, we decided to track both 4xx and 5xx errors, but used 5xx errors only to set SLOs. Similar to our approach for other SLO-related elements, we kept this dimension generic so that different applications could leverage it for different contexts. For example, in addition to HTTP errors, errors for a batch processing service might be the number of records that failed to process.
+  * Tickets
+ 
+ * SLOs form acronym Valet
+  * VALET - We summed up our new SLOs into a handy acronym: VALET.
+
+    * Volume (traffic) - How much business volume can my service handle?
+    * Availability - Is the service up when I need it?
+    * Latency - Does the service respond fast when I use it?
+    * Errors - Does the service throw an error when I use it?
+    * Tickets - Does the service require manual intervention to complete my request?
+ * Home Depot aurtomated collection and reporting, see article
+ * Home Depot built the Vallet dashboard
+ 
+ * Applying VALET to Batch Applications - As we developed robust reporting around SLOs, we discovered some additional uses for VALET. With a little adjusting, batch applications can fit into this framework as follows:
+
+  * Volume - The volume of records processed
+  * Availability - How often (as a percentage) the job completed by a certain time
+  * Latency - The amount of time it takes for the job to run
+  * Errors - The records that failed to process
+  * Tickets - The number of times an operator has to manually fix data and reprocess a job
+  
+ * When ready to execute, go back to article for reference, too many notes to capture...
+ 
+ 
+ 
+  
+  
  
     
