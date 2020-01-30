@@ -30,4 +30,23 @@ Increase SRE Acumen
 
 **SLO Engineering Case Studies**
 
-*
+* Evernote's SLO Story
+ * Evernote had a desire to increase engineering velocity and maintain quality.
+ 
+ * Goals:
+  * Eliminate undifferentiated heavy lifting... Move away from datacenters to public cloud. The heavy lifting of maintaining infrastrcture and data centers was not a diferentiator for the company.
+  * Improve the working model of Ops and Development.
+  * Revamp how SLAs are used
+ 
+ * **Why Adopt the SRE Model?**
+  * Reasons are similiar to the story of DevOps... Dev and Ops teams are seperate, competing objectives - OPS: Stabality, Dev: New Features. These don't work well as new capabilites will introduce some stability issues, but if designed right you fail-forward and minimize the disruption.
+  * **SRE doesn't necessarily mean that Ops and Dev are on the same team.** However it introduces languange and agreement that both ops and dev can relate to and a common goal. You still have ops and dev engineers. By using error budgets /SLO both teams make similiar decisions when presented with the same information. Removes subjectivity.
+  * SLO will change, its not a set and forget. Evernote went through 3 versions of their SLOs in 9 months.
+  * SLOs should be started from customer point of view *What promise are you trying to uphold?*
+  * Not going to write a lot of notes, for examples of how they defined the SLO go back to the [book](https://landing.google.com/sre/workbook/chapters/slo-engineering-case-studies/).
+  * What you need:
+    * Definition of the SLO
+    * What to measure and how
+    * How to calculate SLOs from the data we measure *Maintenace for Evernote is considered downtime*
+    
+    
