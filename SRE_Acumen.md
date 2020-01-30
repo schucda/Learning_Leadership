@@ -30,7 +30,7 @@ Increase SRE Acumen
 
 **SLO Engineering Case Studies**
 
-* Evernote's SLO Story
+* **Evernote's SLO Story**
  * Evernote had a desire to increase engineering velocity and maintain quality.
  
  * Goals:
@@ -48,5 +48,12 @@ Increase SRE Acumen
     * Definition of the SLO
     * What to measure and how
     * How to calculate SLOs from the data we measure *Maintenace for Evernote is considered downtime*
-    
+  * SLOs are used to focus what work needs to be done. Can we do new stuff or do we need to focus on improvements, bug-fix and other technical debt. **Guiding principle - "Perfect is the enemy of good"**
+  * SLOs won't cover everything, so they won't be perfect. 
+  * Don't change SLOs too frequently. You dont want them to go stale, but you cant constantly change. Evernote uses a 6-month time period to review and adjust SLOs.
+  * **With GCP, the SLOs are shared and the customer helps Google understand where to focus to acheive the customers reliability needs**
+  * **Just cause a cloud provider offers a 99.95% reliability and their measures across 100's of thousands of servers is green that doesnt mean our SLO is good. Customers have a much smaller footprint and a regional impact that might not hurt the cloud SLO could hurt the customer SLO. By sharing this, the provider can then report out specifics about your environment SLO.
+
+* **Home Depot SLO Story**
+ *     
     
