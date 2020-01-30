@@ -55,5 +55,17 @@ Increase SRE Acumen
   * **Just cause a cloud provider offers a 99.95% reliability and their measures across 100's of thousands of servers is green that doesnt mean our SLO is good. Customers have a much smaller footprint and a regional impact that might not hurt the cloud SLO could hurt the customer SLO. By sharing this, the provider can then report out specifics about your environment SLO.
 
 * **Home Depot SLO Story**
- *     
+ * Moved to a full stack ownership model based on a "freedom and responsibility culture". This means that developers can push code when they want, but they are jointly responsible for availability along with the ops team. 
+ * The team must understand and know things like, service reliability (how many 9's is the service built for?, what is the upperbound latency?, Can you handle my volume, how do you handle overload and what is your SLO measurement over time?)
+ * *If every service could provide transparent and consistent answers to these questions, teams would have a clear view into their dependencies, which allows for better communication and increased trust and accountability between teams.*
+ * To build reliable services, a common culture of SLO is needed. THis requires an overarching strategy to influence people, process and technology. Home Depots effort spanned four areas:
+  * Common Vernaculat - Define SLOs in the context of the company and define how to consistently measure them
+  * Evangelism - Tell people why its good
+  * Automation - Develop an easy to consume solution for measuring SLIs which can later be wrapped into the SLO
+  * Incentive - Establish goals for your leaders to be held accountable to and rewarded.
+  
+ * You will find that a lot of teams are already measuring the right things from the Google Golden Four, but they are not discussed in a consistent way, arent related to each other and have inssuficent data.
+
+ * Home Depot's first set of SLOs:
+ 
     
