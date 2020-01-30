@@ -2,7 +2,7 @@ Increase SRE Acumen
 
 **Tasks:**
 - [x] [Google SRE - 4 Golden Signals/Metrics](https://victorops.com/blog/sre-golden-signals-of-monitoring)
-- [ ] [SLO Engineering Case Studies, includes Home Depot SLO Story](https://landing.google.com/sre/workbook/chapters/slo-engineering-case-studies/)
+- [x] [SLO Engineering Case Studies, includes Home Depot SLO Story](https://landing.google.com/sre/workbook/chapters/slo-engineering-case-studies/)
 - [ ] [One Stop Shop for SRE](https://github.com/dastergon/awesome-sre/blob/master/README.md)
 - [ ] [Nick Shine SRE Conference Report](https://www.yammer.com/statefarm.com/threads/411541455986688)
 - [ ] [Google Engineer SRE Conference](https://www.youtube.com/watch?v=c-w_GYvi0eA)
