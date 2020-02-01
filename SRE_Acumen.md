@@ -12,6 +12,8 @@ Increase SRE Acumen
 - [ ] [Chaos Engineering](https://victorops.com/blog/chaos-engineering/)
 - [ ] [Game Days](https://victorops.com/blog/september-roundup-a-gameday-recap)
 - [ ] [Synthetic Monitoring](https://en.wikipedia.org/wiki/Synthetic_monitoring)
+- [ ] [Product Centric IT Support Model and DevOps SRE Evolution](https://sfgitlab.opr.statefarm.org/PublicCloud/Documentation/blogs/-/wikis/Product-Centric-IT-Support-Model-and-DevOps/Product-Centric-IT-Support-model-and-DevOps-SRE-Evolution)
+- [ ] [How SRE Teams are organized, and how to get started - Google Cloud](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 
 **Notes**
 
