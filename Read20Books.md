@@ -11,7 +11,8 @@
   * **Habit 5 - Seek First to Understand, Then to Be Understood** Respect, Mutual Understanding, Empathy, Courage
   * **Habit 6 - Synergize** Creativity, Cooperation, Diveristy, Humility, Inclusion
   * **Habit 7 - Sharpen the Saw** Renewal, Continous Improvement, Balance
-  ***Things I want to do after readring this book***
+
+***Things I want to do after readring this book***
   - [ ] Begin writing and teaching what I have learned
   - [ ] Focus on my internal drivers and work through being proactive
   - [ ] Really seek to understand people and LISTEN
