@@ -17,6 +17,7 @@
   - [ ] Focus on my internal drivers and work through being proactive
   - [ ] Really seek to understand people and LISTEN
   - [ ] Work through remaining habits and continuously improve.
+  - [ ] [My 2021 Seven Habits Plan](https://github.com/schucda/personal-goals/blob/master/TheSevenHabits2021.md)
   
 - [ ] **Book 2 - Your Next Five Moves: Master the Art of Business Strategy**
 
